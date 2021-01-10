@@ -1,7 +1,3 @@
-# Ilari Räisänen
-# 291645
-# DATA.ML.100-2020-2021-1 exam
-# exercise 1
 import numpy as np
 from math import sqrt
 
